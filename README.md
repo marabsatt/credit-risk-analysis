@@ -1,6 +1,6 @@
 # Credit Default Risk Classification
 
-This repository contains a Jupyter notebook (`main.ipynb`) implementing a complete workflow to predict credit default risk of clients using the UCI Credit Card Default dataset. The notebook covers data loading, exploratory analysis, preprocessing, feature engineering, model training and hyperparameter tuning, model evaluation and interpretation.
+Machine learning pipeline (`main.ipynb`) for credit card default risk prediction using the UCI “Default of Credit Card Clients” dataset. The process involves, automated data ingestion, data preprocessing, feature engineering, and hyper parameterization of ensemble models. The end-to-end validation tracks precision, recall, F₁-score, and ROC-AUC, while SHAP-based explainability supports transparent monitoring and continuous deployment readiness.
 
 ## Table of Contents
 
